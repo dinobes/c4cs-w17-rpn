@@ -9,4 +9,4 @@ python:
   - "3.6-dev"
   - "3.7-dev"
 #command to run tests
-script: rpn_tests.py
+script: pytest
